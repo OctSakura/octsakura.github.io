@@ -164,7 +164,7 @@ defaults:
   home:
    heading: "OctSakura's Blog"
    subheading: ""
-   banner: "assets/images/banners/banner_compress.jpg"
+   banner: "https://github.com/OctSakura/octsakura.github.io/blob/master/assets/images/banners/banner_compress.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
